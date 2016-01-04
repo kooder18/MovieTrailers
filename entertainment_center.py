@@ -17,7 +17,7 @@ avatar = media.Movie("Avatar",
 
 prometheus = media.Movie("Prometheus",
 "The story of a really old man with a huge ego",
-"http://www.prometheus2-movie.com/media/prometheus_poster_india.jpg",
+"http://www.joblo.com/posters/images/full/promethus.jpg",
 "https://www.youtube.com/watch?v=34cEo0VhfGE",
 "Noomi Rapace, Michael Fassbender, Guy Pearce, Idris Elba")
 
@@ -50,8 +50,7 @@ forgetting = media.Movie("Forgetting Sarah Marshall",
 
 bladeRunner = media.Movie("Blade Runner",
 "A freaking awesome film",
-"http://images2.fanpop.com/images/photos/8200000/Blade-Runner-Poster-blade"
-"-runner-8229832-998-1500.jpg",
+"http://www.findelahistoria.com/web/wp-content/uploads/2014/02/Blade-Runner-poster-7.jpg",
 "https://www.youtube.com/watch?v=iYhJ7Mf2Oxs",
 "Harrison Ford, Rutger Hauer, Sean Young")
 
