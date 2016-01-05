@@ -36,8 +36,7 @@ antman = media.Movie("Antman",
 
 limitless = media.Movie("Limitless",
 "A man does drugs to be creative",
-"http://fo4mw16y1z42edr6j2m4n6vt.wpengine.netdna-cdn.com/wp-content"
-"/uploads/Limitless-Poster.jpg",
+"http://moviewallpaperpics.com/wp-content/uploads/2015/04/Limitless-Movie-1.jpg",
 "https://www.youtube.com/watch?v=jOLqNOfzus4",
 "Bradley Cooper, Abbie Cornish, Robert De Niro")
 
@@ -50,7 +49,7 @@ forgetting = media.Movie("Forgetting Sarah Marshall",
 
 bladeRunner = media.Movie("Blade Runner",
 "A freaking awesome film",
-"http://www.findelahistoria.com/web/wp-content/uploads/2014/02/Blade-Runner-poster-7.jpg",
+"http://originalvintagemovieposters.com/wp-content/uploads/2010/11/Blade-Runner-LB.jpg",
 "https://www.youtube.com/watch?v=iYhJ7Mf2Oxs",
 "Harrison Ford, Rutger Hauer, Sean Young")
 
